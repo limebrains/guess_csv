@@ -34,8 +34,6 @@ Test case 3
 ```
 `Seps(';', '.', ',')`
 
-```
-
 Test case 4
 ```
 "A| B| C| D| E| F| G| H| I\n"
